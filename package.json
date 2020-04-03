@@ -1,0 +1,14 @@
+{
+  "name": "yqhook",
+  "version": "0.0.0",
+  "description": "语雀的发布文章之后的webHook",
+  "main": "index.js",
+  "repository": "https://github.com/lhj233/yqHook.git",
+  "author": "lhj233 <1743972413@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.6"
+  }
+}
